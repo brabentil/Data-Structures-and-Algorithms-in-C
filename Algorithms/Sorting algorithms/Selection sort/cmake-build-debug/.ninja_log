@@ -1,0 +1,8 @@
+# ninja log v5
+0	488	7224274683283552	CMakeFiles/Selection_sort.dir/main.c.obj	c241b1f36fd6c8f4
+489	1201	7224274690372998	Selection_sort.exe	191cb0f2dff465c5
+1	602	7224276730188230	CMakeFiles/Selection_sort.dir/main.c.obj	c241b1f36fd6c8f4
+61	1062	7224276734814057	CMakeFiles/Selection_sort.dir/selection_sort_function_definition.c.obj	233d2e362b83e685
+1062	2120	7224276745340296	Selection_sort.exe	9856e29004084dfb
+2	506	7224623445972721	CMakeFiles/Selection_sort.dir/main.c.obj	c241b1f36fd6c8f4
+507	1182	7224623452687689	Selection_sort.exe	9856e29004084dfb

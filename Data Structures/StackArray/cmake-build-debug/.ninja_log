@@ -1,0 +1,7 @@
+# ninja log v5
+3	708	7195938585795686	CMakeFiles/StackArray.dir/main.c.obj	6cde9ed352e5084f
+709	1526	7195938593942089	StackArray.exe	5d64dbcf0fe9e5cf
+1	617	7195943382638914	CMakeFiles/StackArray.dir/main.c.obj	62abcd61e0d42291
+617	1721	7195943393646765	StackArray.exe	4fd91b40e08b58ba
+3	787	7199356753451100	CMakeFiles/StackArray.dir/main.c.obj	62abcd61e0d42291
+788	1960	7199356765094524	StackArray.exe	4fd91b40e08b58ba

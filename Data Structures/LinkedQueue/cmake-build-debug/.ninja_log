@@ -1,0 +1,7 @@
+# ninja log v5
+0	517	7188197039954141	CMakeFiles/LinkedQueue.dir/main.c.obj	ec5c18ad5591d069
+518	1174	7188197046471053	LinkedQueue.exe	d80519bb5fa4e96a
+2	461	7188197321978822	CMakeFiles/LinkedQueue.dir/main.c.obj	ec5c18ad5591d069
+462	1133	7188197328656899	LinkedQueue.exe	d80519bb5fa4e96a
+2	7941	7189119450778134	CMakeFiles/LinkedQueue.dir/main.c.obj	ec5c18ad5591d069
+7942	10674	7189119478067912	LinkedQueue.exe	d80519bb5fa4e96a
