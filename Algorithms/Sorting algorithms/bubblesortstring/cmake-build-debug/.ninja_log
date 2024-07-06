@@ -1,0 +1,9 @@
+# ninja log v5
+1	435	7226209675931311	CMakeFiles/bubblesortstring.dir/main.c.obj	48f59cc20b1722ac
+444	1069	7226209682232014	bubblesortstring.exe	f0ecb961ede39fea
+3	691	7226227483826727	CMakeFiles/bubblesortstring.dir/main.c.obj	48f59cc20b1722ac
+80	1115	7226227488091335	CMakeFiles/bubblesortstring.dir/function_def.c.obj	8d62fc4ccb5355b1
+1115	2240	7226227499304895	bubblesortstring.exe	81f777dbec88c120
+2	841	7226229851399978	CMakeFiles/bubblesortstring.dir/function_def.c.obj	8d62fc4ccb5355b1
+3	693	7226231689354892	CMakeFiles/bubblesortstring.dir/function_def.c.obj	8d62fc4ccb5355b1
+694	1874	7226231701092685	bubblesortstring.exe	81f777dbec88c120
